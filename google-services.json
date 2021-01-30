@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819729883771",
+    "project_id": "textrecogonizer",
+    "storage_bucket": "textrecogonizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819729883771:android:d05d359f04e8a76ab6f8de",
+        "android_client_info": {
+          "package_name": "com.example.textrecogonizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819729883771-vkhg8lft031j96e2sq1h2f6t5mu8fl9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdzJa2sZ-rTxf5FvonbdtcoeqbZvSAAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819729883771-vkhg8lft031j96e2sq1h2f6t5mu8fl9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
